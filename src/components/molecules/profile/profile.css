@@ -1,0 +1,26 @@
+.image-profile{
+    width: 70px;
+    height: 70px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: none;
+}
+
+.thumbnail-profile{
+    width: 546px;
+    height: 350px;
+    border-radius: 10px;
+    background: #b7b7b7;
+    cursor: pointer;
+}
+.background{
+    width: 250px;
+    height: 300px;
+    background:#2FC4B2;
+    position: absolute;
+    left: 425px;
+    top: -50px;
+    z-index: -1;
+}
